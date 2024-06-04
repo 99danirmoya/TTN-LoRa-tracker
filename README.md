@@ -130,12 +130,9 @@ ___
 > Sketched it looks the following way:
 
 <div align="center">
-  <img src="https://github.com/medialablpwan/lorawaterlevelmonitoring/blob/main/pics/sensor_cooper_v3_3_schematic.png" width="600"  style="margin: 10px;"/>
+  <img src="https://github.com/99danirmoya/TTN-LoRa-tracker/blob/main/pics/tracker_lora_schematic_schematic.jpg" width="600"  style="margin: 10px;"/>
 </div>
 <br/>
-
-> [!CAUTION]
-> Board model used in the sketch above is a TTGO T3 v1.3, but pin numbers correspond to those on the v2.1_1.6
 
 ___
 
@@ -231,34 +228,6 @@ ___
 
 > [!NOTE]
 > Other libraries, like SPI library, are easily downloadable from Arduino IDE
-
-___
-
-___
-
-## <p align="justify"> Deployment experiment [:leftwards_arrow_with_hook:](https://github.com/medialablpwan/lorawaterlevelmonitoring/tree/main#table-of-contents) </p>
-
-### <p align="justify"> The first unit has been deployed near the Polytechnic School of Engineering of Gijón: </p>
-
-<div align="center">
-  <img src="https://github.com/medialablpwan/waterlevelcontrol/blob/main/pics/9_Sensor%20Cooper%20en%20Arroyo%20de%20San%20Miguel.jpg" width="600"  style="margin: 10px;"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github.com/medialablpwan/lorawaterlevelmonitoring/blob/main/pics/map.png" width="600"  style="margin: 10px;"/>
-</div>
-<br/>
-
-___
-
-### Access the Grafana panel[^1] via this QR code or the link below it:
-
-<div align="center">
-  <img src="https://github.com/medialablpwan/waterlevelcontrol/blob/main/pics/qrcode_4f566df1fed52c6e7fd5f661f64ae3eb.balena-devices.com.png" width="600"  style="margin: 10px;"/>
-</div>
-<br/>
-
-<p align="center"> http://4f566df1fed52c6e7fd5f661f64ae3eb.balena-devices.com:8080/d/vJhQNCZgz/sensores-jsn-sr04t-arroyo-de-san-miguel?from=now-24h&orgId=1&to=now&refresh=1m </p>
 
 ___
 
